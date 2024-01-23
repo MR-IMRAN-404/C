@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0",
   hasPermssion: 0,
   credits: "BLACK",
-  description: "Random 6-pack boy photos",
+  description: "Random 6-pack photos",
   commandCategory: "Random-IMG",
   usages: "6mui",
   cooldowns: 2,
