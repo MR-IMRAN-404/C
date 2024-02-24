@@ -1,6 +1,6 @@
 {
-    "name": "Priyansh",
-    "version": "1.0.1",
+    "name": "Priyansh@12",
+    "version": "1.0.2",
     "description": "A simple Facebook Messenger Bot Modified by Priyansh Rajput",
     "main": "Priyansh.js",
     "scripts": {
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/D-Jukie/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "Priyansh Rajput",
     "license": "GPL-3.0",
     "dependencies": {
         "@distube/ytdl-core": "^4.13.0",
